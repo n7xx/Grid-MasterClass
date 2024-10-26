@@ -21,7 +21,7 @@
   }
 }
 
-@media (max-width: 579px) {
+@media (max-width: 479px) {
   .grid {
     grid-template-rows: auto auto auto auto auto auto auto auto auto auto;
   }
