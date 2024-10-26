@@ -145,8 +145,8 @@ a {
 
   .bg-circle {
     display: flex;
-    width: 373px;
-    height: 373px;
+    width: 320px;
+    height: 320px;
     flex-direction: column;
     justify-content: center;
     align-items: center;
